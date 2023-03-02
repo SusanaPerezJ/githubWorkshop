@@ -1,3 +1,4 @@
+Ale
 lab-6-sorting (100 pts Due Oct 12th at NOON)
 Background
 There are many ways to sort. Some are better than others. In this lab, you will be implementing a new sort I just invented: Valley Sort. It's new, but perhaps not the most optimal.
